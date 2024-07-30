@@ -11,7 +11,6 @@
     "./select": "./src/Select.tsx",
     "./textinput": "./src/TextInput.tsx"
   },
- 
   "scripts": {
     "lint": "eslint . --max-warnings 0",
     "generate:component": "turbo gen react-component"
